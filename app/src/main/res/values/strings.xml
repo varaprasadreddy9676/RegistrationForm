@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RegistrationForm</string>
+    <string name="branch_prompt">Branch</string>
+
+    <string-array name="list_of_branches">
+        <item>Computer Science and Engineering</item>
+        <item>Mechanical Engineering</item>
+        <item>Electrical and Electronic Engineering</item>
+        <item>Electronic and Communication Engineering</item>
+        <item>Civil Engineering</item>
+    </string-array>
+
+    <string-array name="year_list">
+        <item>1st</item>
+        <item>2nd</item>
+        <item>3rd</item>
+        <item>4th</item>
+    </string-array>
+</resources>
